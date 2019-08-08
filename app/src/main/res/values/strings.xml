@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="convertion">Delete Currency</string>
+    <string name="clear_wallet">Clear Wallet</string>
+    <string name="add_curr">Add Currency</string>
+    <string name="conv_curr">Convert Currency</string>
+    <string name="wallet_balance">Wallet Balance</string>
+    <string name="convert">CONVERT</string>
+    <string name="converted">CONVERTED:</string>
+    <string name="amount">AMOUNT:</string>
+    <string name="currency">CURRENCY:</string>
+    <string name="insert_amount">INSERT AMOUNT</string>
+</resources>
